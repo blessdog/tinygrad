@@ -18,6 +18,17 @@ tinygrad: For something between [PyTorch](https://github.com/pytorch/pytorch) an
 </div>
 
 ---
+The tinygrad repository, created by George Hotz (also known as geohot), is a minimalistic deep learning library. It's written in Python and is designed to be extremely small and simple, yet still capable of performing deep learning tasks.
+
+The main goal of tinygrad is to demonstrate that deep learning libraries don't need to be large and complex to be effective. It's not intended to compete with larger, more feature-rich libraries like TensorFlow or PyTorch, but rather to serve as an educational tool for those interested in understanding the core concepts of deep learning without the complexity of larger libraries.
+
+The entire library is contained in a single file of less than 1000 lines of code. Despite its simplicity, it supports GPU acceleration via OpenCL and includes implementations of several common deep learning operations, such as matrix multiplication, convolutions, and backpropagation.
+
+It's a great resource for anyone interested in understanding the fundamental operations of deep learning libraries, as it strips away much of the abstraction and complexity found in larger libraries.
+
+
+-------------------------------------------------------------------------------------
+
 
 This may not be the best deep learning framework, but it is a deep learning framework.
 
